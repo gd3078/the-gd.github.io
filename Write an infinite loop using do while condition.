@@ -1,0 +1,11 @@
+
+
+public class NewFunction {
+
+    public static void main(String args[]) {
+        do {  
+            int i = 0;
+            i++;
+        } while (true);
+    }
+}
