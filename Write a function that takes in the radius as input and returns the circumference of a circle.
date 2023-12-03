@@ -1,0 +1,13 @@
+public class NewFunction {
+
+    public static double greater(int r) {
+        return 2*3.14*r ;
+    }
+
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a number");
+        int r = sc.nextInt();
+        System.out.println(greater(r));
+    }
+}
